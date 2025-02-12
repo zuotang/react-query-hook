@@ -1,9 +1,3 @@
-# react-query-hook
-react 的请求插件的hook封装
-以下是一个基于你提供的代码编写的文档，旨在帮助其他开发者理解和使用你封装的请求 Hook。
-
----
-
 # React 请求封装文档
 
 本文档介绍了如何使用 `useBaseFetch`、`useQuery` 和 `useAutoQuery` 这三个自定义 Hook 来管理数据请求、缓存和状态更新。这些 Hook 封装了常见的请求逻辑，提供了缓存管理、错误处理、自动请求等功能。
